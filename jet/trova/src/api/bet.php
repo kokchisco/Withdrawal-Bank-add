@@ -1076,9 +1076,10 @@ array_push($data, $data1,$data2);
 
 	$name=$_POST['actualname'];
 	$upi=$_POST['upi'];
-	$email=$_POST['email'];
+	// $email=$_POST['email'];  // COMMENTED OUT: Email validation removed
 	$paytm=$_POST['paytm'];
-	$query = "UPDATE users SET name='$name',upi='$upi',email='$email',paytm='$paytm' WHERE username='$user' ";
+	// $query = "UPDATE users SET name='$name',upi='$upi',email='$email',paytm='$paytm' WHERE username='$user' ";  // COMMENTED OUT: Email field removed
+	$query = "UPDATE users SET name='$name',upi='$upi',paytm='$paytm' WHERE username='$user' ";  // EMAIL FIELD REMOVED
 	$statement = $connect->prepare($query);
 	$statement->execute();
 	$data = array();

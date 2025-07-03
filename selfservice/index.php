@@ -232,10 +232,12 @@
                 <label for="bankAccountNumber">Bank Account Number:</label>
                 <input type="text" id="bankAccountNumber" name="bankAccountNumber" placeholder="Enter Bank Account Number" />
             </div>
+            <!-- COMMENTED OUT: IFSC Code field removed
             <div class="form-group">
                 <label for="ifscCode">IFSC Code:</label>
                 <input type="text" id="ifscCode" name="ifscCode" placeholder="Enter IFSC Code" />
             </div>
+            -->
             <div class="form-group">
                 <label for="phoneNumber">Phone Number:</label>
                 <input type="text" id="phoneNumber" name="phoneNumber" placeholder="Enter Phone Number" />
@@ -276,10 +278,12 @@
                 <label for="bankAccountNumber">Bank Account Number:</label>
                 <input type="text" id="bankAccountNumber" name="bankAccountNumber" placeholder="Enter Bank Account Number" />
             </div>
+            <!-- COMMENTED OUT: IFSC Code field removed
             <div class="form-group">
                 <label for="ifscCode">IFSC Code:</label>
                 <input type="text" id="ifscCode" name="ifscCode" placeholder="Enter IFSC Code" />
             </div>
+            -->
             <div class="form-group">
                 <label for="phoneNumber">Phone Number:</label>
                 <input type="text" id="phoneNumber" name="phoneNumber" placeholder="Enter Phone Number" />
