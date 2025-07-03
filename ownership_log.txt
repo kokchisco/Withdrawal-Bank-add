@@ -1,0 +1,5 @@
+Ownership Check - 2025-06-28 01:29:26
+File: /home/alutotra/domains/betall.it.com/public_html/ktrx5.php
+Owner: 
+Group: alutotra
+Permissions: 644

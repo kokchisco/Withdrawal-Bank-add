@@ -1,0 +1,27 @@
+Detailed Ownership Check - 2025-06-28 01:52:47
+
+Checking file: /home/alutotra/domains/betall.it.com/public_html/ktrx5.php
+Permissions: 644
+Owner ID: 5965
+Owner Name: POSIX disabled
+Group ID: 5969
+Group Name: alutotra
+Readable: Yes
+Writable: Yes
+
+Checking directory: /home/alutotra/domains/betall.it.com/public_html
+Permissions: 755
+Owner ID: 5965
+Owner Name: POSIX disabled
+Group ID: 5969
+Group Name: alutotra
+Readable: Yes
+Writable: Yes
+
+PHP Environment:
+Current User: alutotra
+open_basedir: /home/alutotra/:/tmp:/var/tmp:/opt/alt/php81/usr/share/pear/:/dev/urandom:/usr/local/lib/php/:/usr/local/php81/lib/php/
+
+Testing CLI execution of /home/alutotra/domains/betall.it.com/public_html/ktrx5.php:
+PHP Path: /usr/local/bin/php
+Output: None
