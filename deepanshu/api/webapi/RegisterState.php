@@ -40,7 +40,7 @@
 				$data['isOpenRegisterCaptcha'] = '0';
 				$data['isOpenGoogleVerifySms'] = '1';
 				$data['isOpenGoogleVerifyEmail'] = '0';
-				$data['addBankCardOpenEmail'] = '1';
+				$data['addBankCardOpenEmail'] = '0';  // COMMENTED OUT: Email requirement disabled for bank card addition
 				$data['isOpenExternalAccount'] = '0';
 				$data['isInvitecode'] = '1';
 				
